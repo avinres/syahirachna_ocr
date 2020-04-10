@@ -16,12 +16,6 @@ from tkinter import Tk, PhotoImage, Menu, Frame, Text, Scrollbar, IntVar, \
 import tkinter.filedialog
 import tkinter.messagebox
 from PIL import ImageTk as itk
-#import tensorflow as tf
-import rsa
-from datetime import datetime, timedelta
-import pickle
-import getpass
-import netifaces
 from skimage.filters import threshold_local
 import imutils
 
