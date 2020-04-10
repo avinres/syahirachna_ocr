@@ -12,12 +12,6 @@ import skew_correct as sc
 import sim_ocr as socr
 from zoom import *
 import cv2
-#import tensorflow as tf
-import rsa
-from datetime import datetime, timedelta
-import pickle
-import getpass
-import netifaces
 import pdf2image
 import numpy as np
 ############################################################################################
